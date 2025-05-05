@@ -47,8 +47,7 @@ flutter pub get
 flutter run
 ```
 
-## 📦 Dependencies
-(You may want to add a `requirements.txt` for easy setup)
+## 📦 Packages
 - flask
 - tensorflow
 - keras
